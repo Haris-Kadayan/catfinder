@@ -11,4 +11,5 @@ A cat-themed PCB fidget toy with four Cherry MX switches and four LED lights pow
 
 <img width="1008" height="436" alt="Screenshot 2026-05-30 205258" src="https://github.com/user-attachments/assets/2ec23065-bded-42a0-a923-f9125ac5cbc8" />
 
+<img width="1442" height="929" alt="image" src="https://github.com/user-attachments/assets/2b4dc97b-7f09-40e0-b12f-995780ec87f7" />
 
